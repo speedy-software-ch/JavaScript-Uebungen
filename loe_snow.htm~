@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Let it Snow</title>
+<script src="snow.js">
+</script>
+</head>
+<body bgcolor="lightblue">
+<h1 align="center"><font size="7">Let it snow
+</h1>
+<img src="schneemann.jpg" align="center">
+</body>
+</html>

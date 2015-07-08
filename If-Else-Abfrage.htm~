@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>if-Anweisung</title>
+</head>
+<body>
+<script type="text/javascript">
+<!--
+if(prompt("Als was machen Sie hier eine Schnupperlehre?","")=="Informatiker")
+{
+	document.location.href="richtig.htm";
+}
+-->
+</script>
+</body>
+</html>
